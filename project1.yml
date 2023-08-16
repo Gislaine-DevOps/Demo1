@@ -1,0 +1,8 @@
+#!/bin/bash 
+ name = Gislaine
+ company = kendril-sarl
+ password = admin
+  echo "My name is $name"
+  echo "Please enter your password"
+  echo "My password is $password"
+  echo "Thanks $name, your credentials are valid"
