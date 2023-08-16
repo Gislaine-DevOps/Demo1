@@ -1,5 +1,5 @@
 #!/bin/bash 
- name = Diane
+ name = Gislaine
  company = kendril-sarl
  password = admin
   echo "My name is $name"
